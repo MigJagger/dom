@@ -1,0 +1,8 @@
+.hidden {
+    display:none
+}
+
+#mon-element{
+    border: 1 solid black;
+    background-color:  red;
+}
